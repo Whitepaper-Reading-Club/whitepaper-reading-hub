@@ -4,5 +4,4 @@ Reading sessions, newest first. Each session page links to its paper, notes, and
 
 | Date | Session | Paper | Notes | Transcript |
 | --- | --- | --- | --- | --- |
-
-No sessions published yet. Start with the [session template](../templates/session.md).
+| 2026-11-17 | [New Constellation](2026-11-17-new-constellation/README.md) | [New Constellation](../papers/new-constellation.md) | [Notes](2026-11-17-new-constellation/notes.md) | [Transcript](2026-11-17-new-constellation/transcript.md) |

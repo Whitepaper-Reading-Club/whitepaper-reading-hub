@@ -13,7 +13,9 @@ Anyone can browse and share these pages. To suggest a paper, ask a question, or 
 
 ## Reading library
 
-No papers have been added yet. Add the first paper using the [paper template](templates/paper.md), then link it in the reading library.
+- [New Constellation](papers/new-constellation.md) — multiple concurrent proposers for Alpenglow, read on 17 November 2026. Notes and transcript are on the [session page](sessions/2026-11-17-new-constellation/README.md).
+
+Add a paper using the [paper template](templates/paper.md), then link it in the reading library.
 
 ## Add a reading session
 
